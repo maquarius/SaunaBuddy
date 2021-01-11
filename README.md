@@ -3,5 +3,5 @@ My final project for the course IoT Experimental Project at Haaga-Helia. It show
 
 ## Example
 
-A video example on youtube of [Sauna buddy](https://youtu.be/rhgR0tnEcdQ).
+A video example on youtube of [Sauna buddy](https://youtu.be/dDuj645vdRg).
 ![webinterface of SaunaBuddy](https://github.com/maquarius/SaunaBuddy/blob/main/exampleSaunaBuddy.PNG?raw=true) 
