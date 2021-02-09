@@ -10,9 +10,9 @@ A video example on youtube of [Sauna buddy](https://youtu.be/dDuj645vdRg).
 
 ##Future
 Since working so closely with sensore, i will continue this project. Estimated begin date: May 2021
- - [] improving the way of interraction with the webserver. Now only one client at the time.
- - [] Improve the interface of the webserver to display data better and generally better looking
- - [] research how saunaproof the hardware is and make it saunaproof
- - [] implement the project in my own sauna.
- - [] add a fire watcher, to see if the fire is still going
- - [] find out a way to use the servo to throw water on the rocks.
+ - [ ] improving the way of interraction with the webserver. Now only one client at the time.
+ - [ ] Improve the interface of the webserver to display data better and generally better looking
+ - [ ] research how saunaproof the hardware is and make it saunaproof
+ - [ ] implement the project in my own sauna.
+ - [ ] add a fire watcher, to see if the fire is still going
+ - [ ] find out a way to use the servo to throw water on the rocks.
